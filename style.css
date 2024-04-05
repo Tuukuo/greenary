@@ -1,0 +1,239 @@
+.container{
+    background-color: green;
+    display: flex;
+    justify-content: space-between;
+}
+.paragraph{
+    display: flex;
+    gap: 5%;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+.icon{
+    font-size: 50px;
+}
+#val{
+    font-size: xx-large;
+}
+#home{
+    color: green;
+}
+#image{
+ position: relative;
+}
+#p1{
+position: absolute;
+top: 200px;
+font-size: 30px;
+margin-left: 250px;
+}
+#p2{
+position: absolute;
+top: 250px;
+font-size: 50px;
+font-style: italic;
+margin-left: 150px;
+}
+#photo{
+    width: 1000px;
+    height: 290px;
+    position: relative;
+}
+.first{
+    display: flex;
+}
+#insp{
+    position: absolute;
+    top: 200px;
+    margin-left: 100px;
+}
+#eras{
+    position: absolute;
+    top: 290px;
+    margin-left: 100px; 
+}
+#erasp{
+    position: absolute;
+    top: 390px;
+    margin-left: 100px; 
+    color: green; 
+    font-size: xx-large;
+}
+#grow{
+    position: absolute;
+    top: 470px;
+    margin-left: 760px; 
+}
+#cras{
+    position: absolute;
+    top: 570px;
+    margin-left: 760px;  
+}
+#dolor{
+    position: absolute;
+    top: 650px;
+    margin-left: 760px; 
+    color: green; 
+    font-size: xx-large; 
+}
+#line{
+    border-left: 2px solid black;
+    height: 80px;
+}
+.vertical{
+    display: flex;
+}
+#gallery{
+    height: 500px;
+    width: 600px;
+    position: relative;
+}
+.gallery{
+    display: flex;
+}
+.galleryone h1{
+position: absolute;
+bottom: 60px;
+}
+#spring{
+    position: absolute;
+    bottom: 40px;   
+}
+.galleryone p{
+    position: absolute;
+    bottom: 20px;    
+}
+.gallerytwo h1{
+    position: absolute;
+    bottom: 40px;
+    margin-left: 10px;    
+}
+.gallerytwo p{
+    position: absolute;
+    bottom: 20px;
+    margin-left: 10px;  
+}
+.gallerythree h1{
+    position: absolute;
+    bottom: 20px;
+    margin-left: 10px;  
+}
+.gallerythree p{
+    position: absolute;
+    bottom: 1px;
+    margin-left: 10px;
+    
+}
+.vertical{
+    font-size: xx-large;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+#pver{
+    color: gray;
+}
+#cactus{
+    height: 200px;
+    width: 200px;
+}
+#hero{
+    height: 500px;
+    width: 700px;
+}
+.overall{
+    display: flex;
+    justify-content: space-around;
+}
+.rowone{
+display: flex;
+}
+.rowtwo{
+display: flex;
+}
+#bottle{
+    height: 700px;
+    width: 700px;
+}
+.treebottle{
+    display: flex;
+    justify-content: space-around;
+}
+.tree{
+    font-size: 30px;
+}
+#product{
+    text-align: center;
+}
+#featured{
+    text-align: center;
+    margin-top: 100px;
+}
+#leaf{
+    height: 500px;
+    width: 1700px; 
+    position: relative; 
+}
+.grow h1{
+    position: absolute;
+    top: 3100px;
+    margin-left: 800px;
+}
+#par1{
+    position: absolute;
+    top: 3200px;
+    margin-left: 800px;
+    font-size: x-large;
+}
+#par2{
+    position: absolute;
+    top: 3300px;
+    margin-left: 800px;
+    color: green;
+    font-size: xx-large;
+}
+#button1{
+    background-color: green;
+    color: white;
+    padding: 15px;
+    border-radius: 20px;
+    /* margin-left: 700px; */
+    /* justify-content: center; */
+    /* text-align: center; */
+  
+}
+/* #button2{
+    background-color: green;
+    color: white;
+    padding: 15px;
+    border-radius: 20px;
+    margin-left: 400px;
+} */
+.flowers{
+    display: flex;
+    justify-content: center;
+}
+.garden{
+    display: flex;
+    justify-content: center;
+}
+.last{
+    display: flex;
+    justify-content: center;
+}
+#amazing{
+    text-align: center;
+}
+.popular{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.late{
+    display: flex;
+    justify-content: space-around;
+}
+
+
